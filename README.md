@@ -1,2 +1,3 @@
 # apna-collage-demo
-This Is My Fourt Git Repository
+This Is My Fourth Git Repository
+auther is abhishek kumar
